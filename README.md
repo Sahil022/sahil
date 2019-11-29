@@ -1,6 +1,6 @@
-**PRANVIR SINGH**
-**1915059**
-**CSE-A2**
+**SAHILPREET SINGH**
+**1915348**
+**CSE-C2**
 ```c
 #include<stdio.h>
 void main()
